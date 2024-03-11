@@ -1,0 +1,6 @@
+# data files
+*.h5
+*.npy
+
+# python cache
+*.pyc
