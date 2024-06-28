@@ -69,6 +69,6 @@ This folder contains the ```centralFunctions.ipynb``` notebook which has all the
 
 This folder contains all the ```JSON``` and ```npz``` files which store the results from various experiments. These are used for plotting. 
 
-## ```paperPlots``` ##
+## ```paperPlots/``` ##
     
 This folder contains the plots for ROC and SI curves and the notebook to generate the plots. 
